@@ -1,0 +1,470 @@
+radiology,{'Doc1.docx': 3}
+university,"{'Doc1.docx': 2, 'Doc2.docx': 3, 'Doc4.docx': 1, 'Doc5.docx': 1, 'Doc6.docx': 3}"
+of,"{'Doc1.docx': 13, 'Doc2.docx': 21, 'Doc3.docx': 21, 'Doc4.docx': 5, 'Doc5.docx': 9, 'Doc6.docx': 7}"
+medicine,"{'Doc1.docx': 9, 'Doc2.docx': 10, 'Doc5.docx': 5}"
+and,"{'Doc1.docx': 15, 'Doc2.docx': 11, 'Doc3.docx': 17, 'Doc4.docx': 11, 'Doc5.docx': 2, 'Doc6.docx': 5}"
+quantitative,{'Doc1.docx': 4}
+imaging,{'Doc1.docx': 5}
+in,"{'Doc1.docx': 4, 'Doc2.docx': 3, 'Doc3.docx': 7, 'Doc4.docx': 5, 'Doc6.docx': 3}"
+the,"{'Doc1.docx': 9, 'Doc2.docx': 26, 'Doc3.docx': 39, 'Doc4.docx': 7, 'Doc5.docx': 2, 'Doc6.docx': 9}"
+department,"{'Doc1.docx': 3, 'Doc2.docx': 9, 'Doc4.docx': 2}"
+this,"{'Doc1.docx': 2, 'Doc2.docx': 2, 'Doc3.docx': 2, 'Doc4.docx': 1, 'Doc5.docx': 2, 'Doc6.docx': 2}"
+only,"{'Doc1.docx': 2, 'Doc2.docx': 1, 'Doc5.docx': 2}"
+medical,"{'Doc1.docx': 5, 'Doc2.docx': 4, 'Doc5.docx': 1}"
+site,"{'Doc1.docx': 1, 'Doc2.docx': 1, 'Doc5.docx': 1}"
+way,"{'Doc1.docx': 3, 'Doc2.docx': 3, 'Doc5.docx': 2}"
+to,"{'Doc1.docx': 11, 'Doc2.docx': 16, 'Doc3.docx': 15, 'Doc4.docx': 3, 'Doc5.docx': 3, 'Doc6.docx': 2}"
+a,"{'Doc1.docx': 6, 'Doc2.docx': 12, 'Doc3.docx': 13, 'Doc4.docx': 3, 'Doc5.docx': 2, 'Doc6.docx': 5}"
+library,"{'Doc1.docx': 3, 'Doc2.docx': 3, 'Doc5.docx': 1, 'Doc6.docx': 3}"
+about,"{'Doc1.docx': 4, 'Doc2.docx': 3, 'Doc3.docx': 1, 'Doc4.docx': 1, 'Doc5.docx': 3, 'Doc6.docx': 3}"
+apply,"{'Doc1.docx': 1, 'Doc3.docx': 1}"
+innovative,"{'Doc1.docx': 1, 'Doc4.docx': 1}"
+technique,{'Doc1.docx': 2}
+for,"{'Doc1.docx': 5, 'Doc2.docx': 2, 'Doc3.docx': 9, 'Doc4.docx': 1, 'Doc5.docx': 4, 'Doc6.docx': 9}"
+efficient,{'Doc1.docx': 1}
+analysis,{'Doc1.docx': 3}
+through,"{'Doc1.docx': 1, 'Doc3.docx': 6}"
+interdisciplinary,{'Doc1.docx': 1}
+collaboration,"{'Doc1.docx': 1, 'Doc3.docx': 3}"
+goal,{'Doc1.docx': 1}
+education,"{'Doc1.docx': 5, 'Doc2.docx': 2, 'Doc3.docx': 2, 'Doc6.docx': 1}"
+physician,{'Doc1.docx': 2}
+technologist,{'Doc1.docx': 1}
+locally,{'Doc1.docx': 1}
+worldwide,{'Doc1.docx': 1}
+development,"{'Doc1.docx': 2, 'Doc3.docx': 2}"
+approach,"{'Doc1.docx': 2, 'Doc4.docx': 1}"
+exploration,{'Doc1.docx': 1}
+assesment,{'Doc1.docx': 1}
+diagnostic,{'Doc1.docx': 2}
+image,"{'Doc1.docx': 1, 'Doc6.docx': 1}"
+that,"{'Doc1.docx': 1, 'Doc2.docx': 1, 'Doc3.docx': 3, 'Doc4.docx': 5, 'Doc6.docx': 1}"
+or,"{'Doc1.docx': 1, 'Doc2.docx': 2, 'Doc3.docx': 2, 'Doc5.docx': 1, 'Doc6.docx': 6}"
+more,"{'Doc1.docx': 1, 'Doc6.docx': 6}"
+effective,"{'Doc1.docx': 1, 'Doc3.docx': 2}"
+planning,"{'Doc1.docx': 1, 'Doc3.docx': 1}"
+monitoring,"{'Doc1.docx': 1, 'Doc4.docx': 1}"
+therapy,{'Doc1.docx': 1}
+deliver,{'Doc1.docx': 1}
+clinically,{'Doc1.docx': 1}
+relevant,{'Doc1.docx': 1}
+visualization,{'Doc1.docx': 1}
+community,"{'Doc1.docx': 4, 'Doc2.docx': 4, 'Doc3.docx': 11}"
+location,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+m,{'Doc1.docx': 1}
+lucas,{'Doc1.docx': 1}
+magnetic,{'Doc1.docx': 1}
+resonance,{'Doc1.docx': 1}
+james,{'Doc1.docx': 1}
+campus,"{'Doc1.docx': 1, 'Doc2.docx': 4}"
+direction,"{'Doc1.docx': 3, 'Doc2.docx': 1}"
+hotel,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+you,"{'Doc1.docx': 1, 'Doc2.docx': 5, 'Doc3.docx': 2, 'Doc5.docx': 1, 'Doc6.docx': 4}"
+are,"{'Doc1.docx': 1, 'Doc2.docx': 1, 'Doc3.docx': 3, 'Doc5.docx': 1, 'Doc6.docx': 1}"
+here,"{'Doc1.docx': 1, 'Doc2.docx': 1, 'Doc5.docx': 2}"
+laboratory,"{'Doc1.docx': 2, 'Doc4.docx': 1}"
+navigation,"{'Doc1.docx': 2, 'Doc2.docx': 1, 'Doc4.docx': 1, 'Doc5.docx': 2}"
+industry,{'Doc1.docx': 2}
+visiting,{'Doc1.docx': 1}
+fellowship,{'Doc1.docx': 1}
+reading,{'Doc1.docx': 1}
+activity,"{'Doc1.docx': 1, 'Doc2.docx': 2, 'Doc3.docx': 3}"
+opportunity,{'Doc1.docx': 1}
+patient,"{'Doc1.docx': 1, 'Doc5.docx': 1}"
+management,{'Doc1.docx': 1}
+software,"{'Doc1.docx': 1, 'Doc6.docx': 4}"
+study,"{'Doc1.docx': 1, 'Doc5.docx': 3}"
+testimonial,{'Doc1.docx': 1}
+infrastructure,{'Doc1.docx': 1}
+service,"{'Doc1.docx': 2, 'Doc2.docx': 1, 'Doc3.docx': 3, 'Doc6.docx': 6}"
+faculty,"{'Doc1.docx': 2, 'Doc2.docx': 2, 'Doc4.docx': 2, 'Doc6.docx': 1}"
+history,{'Doc1.docx': 1}
+resource,"{'Doc1.docx': 3, 'Doc2.docx': 2, 'Doc6.docx': 1}"
+equipment,"{'Doc1.docx': 1, 'Doc6.docx': 1}"
+information,"{'Doc1.docx': 1, 'Doc2.docx': 1, 'Doc6.docx': 1}"
+job,"{'Doc1.docx': 1, 'Doc6.docx': 1}"
+getting,"{'Doc1.docx': 2, 'Doc2.docx': 1}"
+clinical,"{'Doc1.docx': 2, 'Doc2.docx': 3}"
+hospital,"{'Doc1.docx': 2, 'Doc2.docx': 3}"
+clinic,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+lucile,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+emergency,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+trial,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+institute,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+center,"{'Doc1.docx': 1, 'Doc2.docx': 1, 'Doc3.docx': 4, 'Doc5.docx': 1}"
+profile,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+training,"{'Doc1.docx': 1, 'Doc2.docx': 1, 'Doc3.docx': 1, 'Doc6.docx': 1}"
+program,"{'Doc1.docx': 1, 'Doc2.docx': 3, 'Doc5.docx': 1}"
+admission,"{'Doc1.docx': 1, 'Doc2.docx': 1, 'Doc4.docx': 1}"
+continuing,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+newsletter,"{'Doc1.docx': 2, 'Doc2.docx': 2}"
+volunteering,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+partnership,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+renewal,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+building,"{'Doc1.docx': 1, 'Doc2.docx': 2, 'Doc3.docx': 2}"
+project,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+career,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+map,"{'Doc1.docx': 1, 'Doc2.docx': 1}"
+link,"{'Doc1.docx': 1, 'Doc2.docx': 2, 'Doc4.docx': 1, 'Doc5.docx': 2, 'Doc6.docx': 2}"
+member,"{'Doc1.docx': 1, 'Doc5.docx': 1}"
+term,"{'Doc1.docx': 1, 'Doc2.docx': 1, 'Doc5.docx': 1, 'Doc6.docx': 1}"
+powered,"{'Doc1.docx': 1, 'Doc2.docx': 1, 'Doc5.docx': 1}"
+by,"{'Doc1.docx': 1, 'Doc2.docx': 3, 'Doc3.docx': 5, 'Doc4.docx': 1, 'Doc5.docx': 1, 'Doc6.docx': 1}"
+celebration,{'Doc2.docx': 7}
+an,"{'Doc2.docx': 2, 'Doc3.docx': 1, 'Doc4.docx': 1, 'Doc5.docx': 1}"
+enhanced,{'Doc2.docx': 1}
+experience,"{'Doc2.docx': 1, 'Doc3.docx': 1, 'Doc6.docx': 1}"
+thing,{'Doc2.docx': 1}
+do,{'Doc2.docx': 1}
+schedule,{'Doc2.docx': 1}
+scientific,{'Doc2.docx': 2}
+welcome,{'Doc2.docx': 1}
+is,"{'Doc2.docx': 3, 'Doc3.docx': 5, 'Doc4.docx': 1, 'Doc5.docx': 2, 'Doc6.docx': 1}"
+approaching,{'Doc2.docx': 1}
+anniversary,{'Doc2.docx': 1}
+it,"{'Doc2.docx': 1, 'Doc3.docx': 1, 'Doc6.docx': 2}"
+founding,{'Doc2.docx': 1}
+separate,{'Doc2.docx': 1}
+at,"{'Doc2.docx': 4, 'Doc3.docx': 1, 'Doc6.docx': 2}"
+moved,{'Doc2.docx': 1}
+from,"{'Doc2.docx': 1, 'Doc3.docx': 1, 'Doc5.docx': 1, 'Doc6.docx': 1}"
+wa,"{'Doc2.docx': 1, 'Doc3.docx': 1}"
+named,{'Doc2.docx': 1}
+previously,{'Doc2.docx': 1}
+division,"{'Doc2.docx': 1, 'Doc6.docx': 1}"
+surgery,{'Doc2.docx': 1}
+celebrate,{'Doc2.docx': 2}
+our,"{'Doc2.docx': 4, 'Doc3.docx': 1, 'Doc6.docx': 2}"
+year,{'Doc2.docx': 1}
+what,"{'Doc2.docx': 1, 'Doc6.docx': 2}"
+now,"{'Doc2.docx': 3, 'Doc6.docx': 1}"
+if,"{'Doc2.docx': 2, 'Doc3.docx': 1, 'Doc6.docx': 2}"
+not,"{'Doc2.docx': 1, 'Doc3.docx': 1}"
+united,{'Doc2.docx': 1}
+state,{'Doc2.docx': 1}
+we,"{'Doc2.docx': 3, 'Doc3.docx': 1, 'Doc6.docx': 2}"
+invite,{'Doc2.docx': 1}
+your,"{'Doc2.docx': 3, 'Doc6.docx': 2}"
+guest,{'Doc2.docx': 1}
+during,"{'Doc2.docx': 1, 'Doc4.docx': 1}"
+september,{'Doc2.docx': 1}
+will,"{'Doc2.docx': 7, 'Doc3.docx': 6}"
+off,{'Doc2.docx': 1}
+with,"{'Doc2.docx': 2, 'Doc3.docx': 5, 'Doc4.docx': 2, 'Doc6.docx': 1}"
+evening,{'Doc2.docx': 3}
+reception,{'Doc2.docx': 1}
+sculpture,{'Doc2.docx': 1}
+on,"{'Doc2.docx': 4, 'Doc3.docx': 2, 'Doc4.docx': 1}"
+morning,{'Doc2.docx': 1}
+include,"{'Doc2.docx': 1, 'Doc6.docx': 1}"
+consisting,{'Doc2.docx': 1}
+discussion,"{'Doc2.docx': 1, 'Doc3.docx': 1}"
+some,"{'Doc2.docx': 2, 'Doc4.docx': 1, 'Doc6.docx': 1}"
+colleague,{'Doc2.docx': 2}
+provide,{'Doc2.docx': 1}
+both,{'Doc2.docx': 1}
+update,{'Doc2.docx': 1}
+related,{'Doc2.docx': 1}
+practice,{'Doc2.docx': 1}
+reminiscence,{'Doc2.docx': 1}
+accomplishment,{'Doc2.docx': 1}
+be,"{'Doc2.docx': 4, 'Doc3.docx': 6}"
+optional,{'Doc2.docx': 2}
+hike,{'Doc2.docx': 1}
+visit,{'Doc2.docx': 1}
+pacific,{'Doc2.docx': 1}
+tour,{'Doc2.docx': 1}
+just,{'Doc2.docx': 1}
+each,"{'Doc2.docx': 1, 'Doc3.docx': 1}"
+other,"{'Doc2.docx': 2, 'Doc6.docx': 1}"
+place,{'Doc2.docx': 1}
+people,{'Doc2.docx': 1}
+feature,{'Doc2.docx': 1}
+francis,{'Doc2.docx': 1}
+sincerely,{'Doc2.docx': 2}
+able,{'Doc2.docx': 1}
+friend,{'Doc2.docx': 1}
+attendance,{'Doc2.docx': 1}
+limited,"{'Doc2.docx': 1, 'Doc3.docx': 1}"
+participant,"{'Doc2.docx': 1, 'Doc3.docx': 5}"
+including,"{'Doc2.docx': 1, 'Doc6.docx': 1}"
+spouse,{'Doc2.docx': 1}
+constraint,{'Doc2.docx': 1}
+so,{'Doc2.docx': 1}
+please,"{'Doc2.docx': 2, 'Doc3.docx': 1, 'Doc6.docx': 1}"
+calendar,{'Doc2.docx': 1}
+register,{'Doc2.docx': 2}
+early,{'Doc2.docx': 1}
+all,"{'Doc2.docx': 1, 'Doc3.docx': 2, 'Doc4.docx': 1, 'Doc6.docx': 1}"
+website,"{'Doc2.docx': 2, 'Doc6.docx': 2}"
+have,"{'Doc2.docx': 1, 'Doc3.docx': 3, 'Doc4.docx': 3, 'Doc6.docx': 2}"
+any,{'Doc2.docx': 2}
+question,{'Doc2.docx': 1}
+comment,{'Doc2.docx': 1}
+i,"{'Doc2.docx': 1, 'Doc3.docx': 1}"
+can,"{'Doc2.docx': 1, 'Doc4.docx': 5}"
+reached,{'Doc2.docx': 1}
+rosenthal,{'Doc2.docx': 1}
+committee,{'Doc2.docx': 1}
+registration,{'Doc2.docx': 2}
+consider,{'Doc2.docx': 1}
+making,{'Doc2.docx': 1}
+donation,{'Doc2.docx': 1}
+leading,{'Doc3.docx': 2}
+activism,{'Doc3.docx': 2}
+diversity,{'Doc3.docx': 2}
+before,{'Doc3.docx': 1}
+out,"{'Doc3.docx': 2, 'Doc4.docx': 1}"
+application,"{'Doc3.docx': 4, 'Doc4.docx': 1}"
+below,{'Doc3.docx': 2}
+carefully,{'Doc3.docx': 1}
+announce,{'Doc3.docx': 1}
+course,{'Doc3.docx': 2}
+undergraduate,{'Doc3.docx': 1}
+student,"{'Doc3.docx': 10, 'Doc6.docx': 1}"
+interested,{'Doc3.docx': 1}
+exploring,{'Doc3.docx': 1}
+issue,{'Doc3.docx': 1}
+consists,{'Doc3.docx': 1}
+continues,{'Doc3.docx': 1}
+weekly,{'Doc3.docx': 3}
+meeting,{'Doc3.docx': 4}
+culminates,{'Doc3.docx': 1}
+designed,{'Doc3.docx': 2}
+executed,{'Doc3.docx': 1}
+change,{'Doc3.docx': 12}
+receive,{'Doc3.docx': 1}
+academic,"{'Doc3.docx': 1, 'Doc6.docx': 7}"
+their,"{'Doc3.docx': 2, 'Doc6.docx': 1}"
+participation,{'Doc3.docx': 1}
+professional,{'Doc3.docx': 1}
+offered,{'Doc3.docx': 1}
+since,{'Doc3.docx': 2}
+emerging,{'Doc3.docx': 1}
+leader,{'Doc3.docx': 1}
+based,"{'Doc3.docx': 2, 'Doc4.docx': 3}"
+believe,{'Doc3.docx': 1}
+collaborative,{'Doc3.docx': 2}
+hierarchical,{'Doc3.docx': 2}
+useful,{'Doc3.docx': 1}
+searching,{'Doc3.docx': 1}
+method,"{'Doc3.docx': 1, 'Doc4.docx': 2}"
+working,{'Doc3.docx': 1}
+emphasizes,{'Doc3.docx': 1}
+value,{'Doc3.docx': 3}
+mean,{'Doc3.docx': 1}
+diverse,{'Doc3.docx': 2}
+group,{'Doc3.docx': 2}
+individual,{'Doc3.docx': 1}
+create,{'Doc3.docx': 1}
+movement,{'Doc3.docx': 1}
+instill,{'Doc3.docx': 1}
+person,{'Doc3.docx': 1}
+sense,{'Doc3.docx': 1}
+responsibility,{'Doc3.docx': 1}
+desire,{'Doc3.docx': 2}
+consciousness,{'Doc3.docx': 1}
+congruence,{'Doc3.docx': 1}
+commitment,{'Doc3.docx': 1}
+purpose,{'Doc3.docx': 2}
+controversy,{'Doc3.docx': 1}
+civility,{'Doc3.docx': 1}
+stressed,{'Doc3.docx': 1}
+reinforced,{'Doc3.docx': 1}
+included,{'Doc3.docx': 1}
+experiential,{'Doc3.docx': 1}
+exercise,{'Doc3.docx': 1}
+following,{'Doc3.docx': 2}
+continue,{'Doc3.docx': 1}
+execute,{'Doc3.docx': 1}
+setting,{'Doc3.docx': 1}
+thereby,{'Doc3.docx': 1}
+increasing,{'Doc3.docx': 1}
+understanding,{'Doc3.docx': 1}
+practical,{'Doc3.docx': 1}
+selection,{'Doc3.docx': 1}
+selected,{'Doc3.docx': 1}
+consideration,{'Doc3.docx': 1}
+representative,{'Doc3.docx': 1}
+sample,{'Doc3.docx': 1}
+involvement,{'Doc3.docx': 1}
+required,{'Doc3.docx': 1}
+logistics,{'Doc3.docx': 1}
+transportation,{'Doc3.docx': 1}
+accommodation,{'Doc3.docx': 1}
+meal,{'Doc3.docx': 1}
+provided,{'Doc3.docx': 1}
+funded,{'Doc3.docx': 1}
+there,"{'Doc3.docx': 1, 'Doc6.docx': 1}"
+no,{'Doc3.docx': 1}
+expectation,{'Doc3.docx': 1}
+requires,{'Doc3.docx': 1}
+requirement,{'Doc3.docx': 1}
+mandatory,{'Doc3.docx': 1}
+entire,{'Doc3.docx': 1}
+offsite,{'Doc3.docx': 1}
+october,{'Doc3.docx': 2}
+every,{'Doc3.docx': 1}
+complete,{'Doc3.docx': 1}
+determined,{'Doc3.docx': 1}
+assigned,{'Doc3.docx': 1}
+above,{'Doc3.docx': 1}
+aeronautics,{'Doc4.docx': 2}
+astronautics,{'Doc4.docx': 2}
+computational,{'Doc4.docx': 7}
+decade,{'Doc4.docx': 1}
+stride,{'Doc4.docx': 1}
+been,"{'Doc4.docx': 3, 'Doc6.docx': 1}"
+achieved,{'Doc4.docx': 1}
+many,"{'Doc4.docx': 1, 'Doc5.docx': 1}"
+aspect,{'Doc4.docx': 1}
+aerospace,{'Doc4.docx': 4}
+engineering,{'Doc4.docx': 3}
+fidelity,{'Doc4.docx': 2}
+mathematical,{'Doc4.docx': 1}
+model,{'Doc4.docx': 1}
+approximation,{'Doc4.docx': 1}
+solution,{'Doc4.docx': 1}
+algorithm,{'Doc4.docx': 2}
+developed,{'Doc4.docx': 1}
+aerodynamic,{'Doc4.docx': 1}
+structural,{'Doc4.docx': 2}
+aeroacoustic,{'Doc4.docx': 1}
+aeroelastic,{'Doc4.docx': 1}
+aerothermal,{'Doc4.docx': 1}
+others,{'Doc4.docx': 1}
+computing,"{'Doc4.docx': 3, 'Doc6.docx': 6}"
+barrier,{'Doc4.docx': 1}
+shattered,{'Doc4.docx': 1}
+hardware,{'Doc4.docx': 1}
+manufacturer,{'Doc4.docx': 1}
+ha,{'Doc4.docx': 3}
+become,{'Doc4.docx': 1}
+ubiquitous,{'Doc4.docx': 1}
+numerical,{'Doc4.docx': 1}
+simulation,{'Doc4.docx': 2}
+increasingly,{'Doc4.docx': 1}
+complemented,{'Doc4.docx': 1}
+case,{'Doc4.docx': 1}
+replaced,{'Doc4.docx': 1}
+physical,{'Doc4.docx': 1}
+test,{'Doc4.docx': 1}
+enhance,{'Doc4.docx': 2}
+reliability,{'Doc4.docx': 1}
+design,{'Doc4.docx': 1}
+improve,{'Doc4.docx': 1}
+productivity,{'Doc4.docx': 1}
+engineer,{'Doc4.docx': 1}
+reduce,{'Doc4.docx': 1}
+cycle,{'Doc4.docx': 1}
+performance,{'Doc4.docx': 1}
+presence,{'Doc4.docx': 1}
+which,{'Doc4.docx': 1}
+carried,{'Doc4.docx': 1}
+primarily,{'Doc4.docx': 1}
+focus,{'Doc4.docx': 1}
+multidisciplinary,{'Doc4.docx': 1}
+framework,{'Doc4.docx': 1}
+different,{'Doc4.docx': 1}
+physic,{'Doc4.docx': 1}
+pertaining,{'Doc4.docx': 1}
+multiscale,{'Doc4.docx': 1}
+large,{'Doc4.docx': 1}
+range,{'Doc4.docx': 1}
+scale,{'Doc4.docx': 1}
+scheme,{'Doc4.docx': 1}
+enable,{'Doc4.docx': 1}
+predictive,{'Doc4.docx': 1}
+optimization,{'Doc4.docx': 1}
+handle,{'Doc4.docx': 1}
+integrated,{'Doc4.docx': 1}
+system,{'Doc4.docx': 2}
+reduction,{'Doc4.docx': 1}
+integrate,{'Doc4.docx': 1}
+computation,{'Doc4.docx': 1}
+right,{'Doc4.docx': 1}
+reserved,{'Doc4.docx': 1}
+sustainable,{'Doc4.docx': 1}
+aviation,{'Doc4.docx': 1}
+lab,{'Doc4.docx': 1}
+financial,{'Doc4.docx': 1}
+event,{'Doc4.docx': 1}
+affiliate,{'Doc4.docx': 1}
+giving,{'Doc4.docx': 1}
+al,{'Doc5.docx': 4}
+epidemiological,{'Doc5.docx': 1}
+ace,{'Doc5.docx': 7}
+epidemiologic,{'Doc5.docx': 2}
+international,{'Doc5.docx': 1}
+researcher,{'Doc5.docx': 2}
+specialty,{'Doc5.docx': 1}
+identify,{'Doc5.docx': 1}
+environmental,{'Doc5.docx': 1}
+lifestyle,{'Doc5.docx': 1}
+genetic,{'Doc5.docx': 1}
+factor,{'Doc5.docx': 1}
+amyotrophic,{'Doc5.docx': 1}
+lateral,{'Doc5.docx': 1}
+sclerosis,{'Doc5.docx': 1}
+disease,{'Doc5.docx': 1}
+lorene,{'Doc5.docx': 1}
+valerie,{'Doc5.docx': 1}
+mcguire,{'Doc5.docx': 1}
+database,{'Doc5.docx': 1}
+manager,{'Doc5.docx': 1}
+coordinator,{'Doc5.docx': 1}
+jacqueline,{'Doc5.docx': 1}
+itnyre,{'Doc5.docx': 1}
+ml,{'Doc5.docx': 1}
+administrative,{'Doc5.docx': 1}
+associate,{'Doc5.docx': 1}
+christine,{'Doc5.docx': 1}
+family,{'Doc5.docx': 1}
+additinal,{'Doc5.docx': 1}
+ac,{'Doc6.docx': 3}
+visitor,{'Doc6.docx': 1}
+connection,{'Doc6.docx': 2}
+computer,{'Doc6.docx': 3}
+device,{'Doc6.docx': 1}
+need,{'Doc6.docx': 1}
+editing,{'Doc6.docx': 1}
+scheduling,{'Doc6.docx': 1}
+technology,{'Doc6.docx': 3}
+printing,{'Doc6.docx': 2}
+machine,{'Doc6.docx': 1}
+own,{'Doc6.docx': 1}
+afs,{'Doc6.docx': 1}
+item,{'Doc6.docx': 2}
+ve,{'Doc6.docx': 1}
+updated,{'Doc6.docx': 1}
+inventory,{'Doc6.docx': 1}
+exciting,{'Doc6.docx': 1}
+survey,{'Doc6.docx': 1}
+grad,{'Doc6.docx': 1}
+undergrad,{'Doc6.docx': 1}
+support,{'Doc6.docx': 1}
+projector,{'Doc6.docx': 2}
+elected,{'Doc6.docx': 1}
+president,{'Doc6.docx': 1}
+window,{'Doc6.docx': 2}
+managed,{'Doc6.docx': 1}
+upgraded,{'Doc6.docx': 1}
+detail,{'Doc6.docx': 1}
+list,{'Doc6.docx': 1}
+installed,{'Doc6.docx': 1}
+montage,{'Doc6.docx': 1}
+production,{'Doc6.docx': 3}
+digital,{'Doc6.docx': 1}
+workflow,{'Doc6.docx': 1}
+used,{'Doc6.docx': 1}
+re,{'Doc6.docx': 2}
+having,{'Doc6.docx': 2}
+trouble,{'Doc6.docx': 2}
+finding,{'Doc6.docx': 2}
+something,{'Doc6.docx': 2}
+hour,{'Doc6.docx': 1}
+available,{'Doc6.docx': 1}
+learning,{'Doc6.docx': 1}
+space,{'Doc6.docx': 1}
+residential,{'Doc6.docx': 1}
+complaint,{'Doc6.docx': 1}
